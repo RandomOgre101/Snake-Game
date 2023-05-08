@@ -1,4 +1,4 @@
-# Snake Game in Python
+# Snake Game 
 
 **Snake Game coded purely in vanilla Python using turtle graphics**
 
